@@ -1,0 +1,138 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    width: 100%;
+    font-family: "Yeseva-One", serif;
+    position: relative;
+}
+
+.section-1 {
+    width: 100%;
+}
+
+
+.logo {
+    position: relative;
+    width: 100%;
+    max-width: 1280px;
+    margin: 0 auto;
+    padding-top: 50px;
+}
+
+.logo-text {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    color: #6C1011;
+}
+
+.logo-text p {
+    margin: 0;
+    font-size: 300px;
+    line-height: 0.85;
+    font-weight: 400;
+}
+
+.logo img {
+    position: absolute;
+    width: 94px;
+    height: auto;
+    top: 288px;
+    left: 14.5%;
+    z-index: 2;
+}
+
+.section-2 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    margin-top: 85px;  
+}
+.about {
+ font-size: 20px;
+ text-align: center;
+color: #6C1011;
+}
+.section-2 img {
+    position: absolute;
+    width: 1119px;
+    height: auto;
+    margin-top: -30px;
+    left: 12%;
+}
+.section-3 { 
+    display: flex;
+    flex-direction: column;
+    padding: 90px;
+    margin-top: 0;
+}
+.section-3 .title {
+    margin-top: 607px;
+    margin-left: 32%;
+    font-size: 24px;
+    color: #6C1011;
+
+}
+.section-3 .year {
+    margin-top: 0px;
+    margin-left: 10.7%;
+    font-size: 200px;
+    color: #6C1011;
+}
+.section-3 .text {
+    margin-top: 0px;
+    margin-left: 32.7%;
+    font-size: 20px;
+    color: #6C1011;
+}
+.section-3 .title2 {
+    margin-top: 169px;
+    margin-left: 45%;
+    font-size: 24px;
+    color: #6C1011;
+}
+.section-3 .text2 {
+    margin-top: 12px;
+    margin-left: 45%;
+    font-size: 20px;
+    color: #6C1011;
+}
+.section-3 img {
+    position: absolute;
+    width: 1088.62px;
+    height: auto;
+    margin-top: -170px;
+    left: 13%;
+}
+
+.section-4 {
+display: flex;
+flex-direction: column;
+padding: 90px;
+margin-top: 0;
+}
+
+.section-4 .text {
+    margin-top: 780px;
+    margin-left: 7%;
+    font-size: 20px;
+    color: #6C1011;
+}
+.section-4 img {
+    position: absolute;
+    width: 1025px;
+    height: auto;
+    margin-top: 88px;
+    left: 15%;
+}
+.section-5 img {
+    position: absolute;
+    width: 1088.62px;
+    height: auto;
+    margin-top: 1000px;
+    left: 13%;
